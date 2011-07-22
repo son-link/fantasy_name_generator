@@ -114,7 +114,7 @@ class GUI():
 		lang = self.lang_select.get_active_text()
 		sex = self.sex_select.get_active_text()
 		sex = self.sex_select.get_active_text()
-		if int(self.lang_select.get_active_text()) <= 2:
+		if int(self.lang_select.get_active_text()) < 2:
 			generator = module[self.module].Generator(sex)
 		else:
 			generator = module[self.module].Generator()

@@ -17,6 +17,8 @@ python-gtk2
 python-csv
 
 Historia:
-1 Beta 1:
+r1 (1 Beta 1):
 Primera beta de programa.
 
+r2 (1 Beta 1.1):
+Se a arreglado un pequeño fallo en la función de generación de los nombres
