@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-22 20:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: fng.py:33
+msgid ""
+"No tienes permisos de lectura en las carpeta txt.\n"
+"Compruebe los permisos"
+msgstr ""
+
+#: fng.py:37 fng.py:203
+msgid "Generador de nombres fantásticos"
+msgstr ""
+
+#: fng.py:45
+msgid "Elija la raza:"
+msgstr ""
+
+#: fng.py:54
+msgid "Drow/Elfo Oscuro"
+msgstr ""
+
+#: fng.py:55
+msgid "Halfling"
+msgstr ""
+
+#: fng.py:56
+msgid "Elfo"
+msgstr ""
+
+#: fng.py:57
+msgid "Orcos"
+msgstr ""
+
+#: fng.py:58
+msgid "Demonios"
+msgstr ""
+
+#: fng.py:64
+msgid "Elija el sexo:"
+msgstr ""
+
+#: fng.py:73
+msgid "Masculino"
+msgstr ""
+
+#: fng.py:74
+msgid "Femenino"
+msgstr ""
+
+#: fng.py:78
+msgid "Total a generar (1-100):"
+msgstr ""
+
+#: fng.py:87
+msgid "Generar listado"
+msgstr ""
+
+#: fng.py:92
+msgid "Guardar"
+msgstr ""
+
+#: fng.py:97
+msgid "Sobre"
+msgstr ""
+
+#: fng.py:135
+msgid "Seleccione donde se guardaran los nombres"
+msgstr ""
+
+#: fng.py:137 fng.py:159 fng.py:166
+msgid "Texto"
+msgstr ""
+
+#: fng.py:152
+msgid "¡Atención!"
+msgstr ""
+
+#: fng.py:153
+msgid ""
+"El archivo ya existe.\n"
+"¿Desea sobreescribirlo?"
+msgstr ""
+
+#: fng.py:174
+msgid ""
+"Ocurrió un error al guardar el archivo.\n"
+"Compruebe que tienes permisos de escritura en el directorio"
+msgstr ""
+
+#: fng.py:207
+msgid "Genera nombres fantásticos de varias razas"
+msgstr ""
+
+#: fng.py:209
+msgid "Ingles: Son Link y Google"
+msgstr ""
+
+#: fng.py:210
+msgid "Pagina del proyecto"
+msgstr ""
+
+#: fng.py:217
+msgid "¡Error!"
+msgstr ""

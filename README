@@ -1,0 +1,22 @@
+Generador de nombres fantasticos
+Programa bajo licencia GPL 3
+Programado por Alfonso Saavedra "Son Link"
+
+Genera nombres fantasticos de varias razas:
+Elfos
+Drows / Elfos Oscuros
+Orcos
+Halflings
+Demonios
+
+Para hacerlo funcionar solo descarga los archivos, da permidos de ejecucion al archivo pnj.py y ejecutarlo.
+Para ejucarto necesitas tener instalado los siguientes paquetes:
+
+python2.7
+python-gtk2
+python-csv
+
+Historia:
+1 Beta 1:
+Primera beta de programa.
+

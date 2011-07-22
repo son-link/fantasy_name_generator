@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FantasyName Generator 1Beta 3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-22 20:14+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alfonso Saavedra \"Son Link\" <sonlink.dourden@gmail.com>\n"
+"Language-Team: Main team <sonlink.dourden@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: fng.py:33
+msgid ""
+"No tienes permisos de lectura en las carpeta txt.\n"
+"Compruebe los permisos"
+msgstr "You don't have read permisions on names and/or lastnames directories"
+
+#: fng.py:37
+#: fng.py:203
+msgid "Generador de nombres fantásticos"
+msgstr "Fantasy names generator"
+
+#: fng.py:45
+msgid "Elija la raza:"
+msgstr "Select race:"
+
+#: fng.py:54
+msgid "Drow/Elfo Oscuro"
+msgstr "Drow/Dark Elf"
+
+#: fng.py:55
+msgid "Halfling"
+msgstr "Halfling"
+
+#: fng.py:56
+msgid "Elfo"
+msgstr "Elf"
+
+#: fng.py:57
+msgid "Orcos"
+msgstr "Orcs"
+
+#: fng.py:58
+msgid "Demonios"
+msgstr "Demons"
+
+#: fng.py:64
+msgid "Elija el sexo:"
+msgstr "Select sex:"
+
+#: fng.py:73
+msgid "Masculino"
+msgstr "Male"
+
+#: fng.py:74
+msgid "Femenino"
+msgstr "Female"
+
+#: fng.py:78
+msgid "Total a generar (1-100):"
+msgstr "Total generating (1-100):"
+
+#: fng.py:87
+msgid "Generar listado"
+msgstr "Generate list"
+
+#: fng.py:92
+msgid "Guardar"
+msgstr "Save"
+
+#: fng.py:97
+msgid "Sobre"
+msgstr "About"
+
+#: fng.py:135
+msgid "Seleccione donde se guardaran los nombres"
+msgstr "Select where to save names"
+
+#: fng.py:137
+#: fng.py:159
+#: fng.py:166
+msgid "Texto"
+msgstr "Text"
+
+#: fng.py:152
+msgid "¡Atención!"
+msgstr "Attention"
+
+#: fng.py:153
+msgid ""
+"El archivo ya existe.\n"
+"¿Desea sobreescribirlo?"
+msgstr ""
+"The file already exists.\n"
+"Replace?"
+
+#: fng.py:174
+msgid ""
+"Ocurrió un error al guardar el archivo.\n"
+"Compruebe que tienes permisos de escritura en el directorio"
+msgstr ""
+"An error occurred while saving the file.\n"
+"Make sure you have write permissions on the directory"
+
+#: fng.py:207
+msgid "Genera nombres fantásticos de varias razas"
+msgstr "Generate names of many fantasy races"
+
+#: fng.py:209
+msgid "Ingles: Son Link y Google"
+msgstr "English: Son Link & Google"
+
+#: fng.py:210
+msgid "Pagina del proyecto"
+msgstr "Project webpage"
+
+#: fng.py:217
+msgid "¡Error!"
+msgstr "Error!"
+
+#~ msgid "Español"
+#~ msgstr "Spanish"
+
+#~ msgid "Japones"
+#~ msgstr "Japanese"
+
+#~ msgid "Ingles"
+#~ msgstr "English"
+
+#~ msgid "Portugués"
+#~ msgstr "Portuguese"
+
+#~ msgid "Alemán"
+#~ msgstr "German"
+
+#~ msgid "Francés"
+#~ msgstr "Franche"
+
+#~ msgid "Italiano"
+#~ msgstr "Italian"
+
+#~ msgid "Ruso"
+#~ msgstr "Russian"
+
+#~ msgid "Musulmán"
+#~ msgstr "muslin"
+
+#~ msgid "Chino"
+#~ msgstr "Chinese"
+
+#~ msgid "Debes de seleccionar el idioma y el sexo"
+#~ msgstr "You have select language an sex"
+
+#~ msgid ""
+#~ "No se pudieron abrir los archivos de texto.\n"
+#~ "Comprueba que están en los directorios correspondientes, que los nombres "
+#~ "sean los correctos y/o que tengas permisos de lectura sobre ellos"
+#~ msgstr ""
+#~ "Could not open text files.\n"
+#~ "Notes that are in the correct directories, the names are correct and/or "
+#~ "have read permissions on them"
+
+#~ msgid ""
+#~ "Gracias a Desmenbrator por la idea.\n"
+#~ "A javierrivera2 por sus consejos para mejorar el código\n"
+#~ "Y como no, a todos vosotros por descargarlo y usarlo ^^"
+#~ msgstr ""
+#~ "With the idea Desmenbrator.\n"
+#~ "A javierrivera2 for their advice to improve the code\n"
+#~ "And of course, to you all for download and use"
