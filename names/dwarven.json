@@ -1,0 +1,23 @@
+{
+	"prefix":["a/al","an","ar/ara","az","b/bal","bel","bar/bari","baz","bof","bol",
+	"d/dal","dar/dare","del","dol","dor/dora","dw/dwo","duer","dur/duri","el","er/eri",
+	"dal/fall","far","gar","gil","gim","glan","glor/glori","har","hel","jar",
+	"kil","ma/mar","mor/mori","nal","nor/nora","nur/nura","o/ol","or/ori","ov","res",
+	"th/ther","tho/thor","thr/thra","tor/tore","ur/umi","val","von","whur","wer/wera","yur"],
+
+	"male_suffix": ["aim/and","ain/arn","ak","ar/ard","auk","bere","bir/bin","dak","dal","din",
+	"el","ent","erl","gal","gar/gath","gan","gen","grim","gur/guk","ias",
+	"i/ik","ili/li","im/rim","in/rin","ir/init","kas","kral","lond","o/oak","on/lon",
+	"or/ror","oril/oric","rak","ral","ric","rid","rim","ring","ster/stili","sun",
+	"ten","thal","then","thic","thur","ut/unt","ur/rur","urt","val","var/villi"],
+
+	"female_suffix": ["a/aed","ala/la","alsia","ana","ani","astr","bela","bera/bena","bo","bryn",
+	"drid","deth","dis","dred","dris","esli","gret","gunn","hild","ia",
+	"ida","iess","iff","ifra","ila","ild","ina","ip/ippa","isi","iz",
+	"ja","kara","li/ili","lydd","lin","mora/moa","ola","on/ona","ora/oa","ra/rra",
+	"ren","serd","shar/sha","thra","tia","tryd","unn","wynn","ya","ydd"],
+
+	"suffixes": ["ack","arr/aln","bek","cral","dar/dann","duum","dukr","eft","erg","est",
+	"fik","gak","gim","gyth","hak","hig","jak","jyr/jynd","kak","krak","lagg","lode",
+	"pyr/lynd","malk","mek","nore/noe","rak","ral","sten","tek","vir/vin","zak"]
+}

@@ -1,0 +1,31 @@
+{
+	"male_1":["ael","aer","af","ah","al","am","ama","an","ang","ansr",
+	"ar","arì","arn","aza","bael","bes","cael","cal","cas","cla",
+	"cor","cy","dae","dho","dre","du","eil","eir","el","er",
+	"ev","fera","fi","fir","fis","gael","gar","gil","ha","hu",
+	"ia","il","ja","jar","ka","kan","ker","keth","koeh","kor",
+	"ky","la","laf","lam","lue","ly","mai","mal","mara","my",
+	"na","nai","nim","nu","ny","py","raer","re","ren","rhy",
+	"ru","rua","rum","rid","sae","seh","sel","sha","she","si",
+	"sim","sol","sum","syl","ta","tahl","tha","tho","ther","thro",
+	"tia","tra","ty","uth","ver","vil","von","ya","za","zy"],
+
+	"male_2":["ae","ael","aer","aias","ah","aith","al","ali",
+	"am","an","ar","ari","aro","as","ath","avel","brar","dar",
+	"deth","dre","drim","dul","ean","el","emar","en","er","ess",
+	"evar","fel","hal","har","hel","ian","iat","ik","il","im",
+	"in","ir","is","ith","kash","ki","lan","lam","lar","las",
+	"lian","lis","lon","lyn","mah","mil","mus","nal","nes","nin",
+	"nis","on","or","oth","que","quis","rah","rad","rail","ran",
+	"reth","ro","ruil","sal","san","sar","sel","sha","spar","tae",
+	"tas","ten","thal","thar","ther","thi","thus","ti","tril","ual",
+	"uath","us","van","var","vain","via","vin","wyn","ya","yr","yth","zair"],
+
+	"lastname_1": ["alean","alea","arabi","arkenea","auvrea","baequi","banni","cyred","dirth","dryear",
+	"dwin’","eyllis","eyther","freani","gysse","heasi","hlae","hunith","kennyr","kille",
+	"maern","melith","myrth","norre","orle","oussea","rilynn","teasen'","tyr","tyrnea"],
+
+	"lastname_2": ["altin","anea","annia","aear","arnith","atear","athem","dlues","elrvis",
+	"eplith","ettln","ghymn","itryn","lylth","mitore","nddare","neldth","rae","raheal",
+	"rretyn","sithek","thym","tlarn","tlithar","tylar","undlin","urdrenn","valsa","virrea","zea"]
+}

@@ -20,5 +20,8 @@ Historia:
 r1 (1 Beta 1):
 Primera beta de programa.
 
-r2 (1 Beta 1.1):
-Se a arreglado un pequeño fallo en la función de generación de los nombres
+r2 (1 Beta 2):
+Se ha reeditado las funciones encargadas de generar nombres
+Se han añadido nuevas razas: Dragones, Enanos y Gnomos
+Se ha mejorado el generador de nombres para los Haflings
+Cambios en la interfaz, actualización de la traducción y otro cambios menores
