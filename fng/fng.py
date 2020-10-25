@@ -95,7 +95,7 @@ class fng:
 		data = self.__getdata(race)
 
 		def __tofemale(female):
-			print female
+			print(female)
 			if female[-1] != female[-2]:
 				female = female+female[-1]+'a'
 			else:
