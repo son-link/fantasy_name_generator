@@ -51,9 +51,8 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
 
 	def generate(self):
 		race_pos = self.cbRace.currentIndex()
-		sex_pos = self.cbRace.currentIndex()
+		sex_pos = self.cbSex.currentIndex()
 		race = self.races[race_pos][0]
-		sex = self.sex[sex_pos]
 		total = self.sbTotal.value()
 
 		self.listNames.clear()
@@ -61,7 +60,7 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
 		methodToCall = getattr(fng, race)
 		for i in range(0, total):
 			if self.cbSex.isEnabled():
-				self.listNames.addItem(methodToCall(race, sex))
+				self.listNames.addItem(methodToCall(race, self.sex[sex_pos]))
 			else:
 				self.listNames.addItem(methodToCall(race))
 
